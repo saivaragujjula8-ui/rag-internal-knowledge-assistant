@@ -62,6 +62,4 @@ indexes/
 tests/
 ```
 
-## Resume Bullet
 
-Built a retrieval-augmented generation system using LangChain-style retrieval, FAISS-compatible indexing, and OpenAI-ready answer generation to answer maintenance queries from 5,000+ PDF manuals, reducing engineer search time by 65% and deploying as a Streamlit web application.
