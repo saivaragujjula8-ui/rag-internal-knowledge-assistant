@@ -1,0 +1,7 @@
+Pump Maintenance Manual
+
+If a centrifugal pump overheats, verify inlet flow, inspect bearing lubrication, and check for cavitation noise. Shut down the pump before removing guards or opening inspection panels.
+
+For vibration above the normal operating range, inspect shaft alignment and impeller balance. Record vibration readings before and after corrective maintenance.
+
+Preventive maintenance should be performed every 500 operating hours. Replace worn seals, check motor current draw, and clean the inlet strainer.

@@ -1,0 +1,7 @@
+Industrial Turbine Service Manual
+
+High exhaust temperature can indicate blocked air filters, degraded compressor efficiency, or abnormal fuel-air ratio. Operators should inspect filters and review recent temperature trends.
+
+Emergency shutdown is required when vibration exceeds the critical alarm threshold or oil pressure drops below the safe operating range.
+
+After maintenance, technicians must document parts replaced, measurements taken, and final system validation results.
